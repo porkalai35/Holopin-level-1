@@ -1,2 +1,2 @@
-# Holopin-level-1
+# Holopin-Badges
 [![@porkalai's Holopin board](https://holopin.me/porkalai)](https://holopin.io/@porkalai)
